@@ -1,0 +1,19 @@
+body{
+    background-color: hwb(0 0% 100%);
+    color: #05e99d;
+}
+h1{
+    background-color: rgb(221, 0, 0);
+    text-shadow: 10px;
+    background: wheat;
+    color: rgb(21, 8, 201);
+}
+
+.image{
+    height: 250px; 
+    width: 250px;
+    box-shadow: 4px 4px 20px 5px rgb(19, 18, 15);
+    padding: 15px;
+    margin: 50px;
+    display: flex                       ;
+}
